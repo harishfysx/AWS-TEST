@@ -1,0 +1,10 @@
+{
+  "name": "SdkTest",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.97.0",
+    "node-uuid": "^1.4.8"
+  }
+}
